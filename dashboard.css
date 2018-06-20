@@ -1,0 +1,163 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/*Dash Board*/
+.dash{
+	width: 20%;
+	height: 700px;
+	background-color: #2b323a;
+	float: left;
+}
+.d-slides{
+	width: 100%;
+	height: 55px;
+	background-color: #3a4148;
+}
+.d-img{
+	padding-top: 10px;
+	padding-left: 25px;
+	/*float: right;*/
+}
+.d-slides-p{
+	color: white;
+	padding-top: 15px;
+	padding-right: 100px;
+	float: right;
+	font-size: 20px;
+}
+.u-slides{
+	width: 100%;
+	height: 55px;
+	margin-top: 15px;
+	/*background-color: #3a4148;*/
+}
+.u-img{
+	padding-top: 15px;
+	padding-left: 25px;
+	/*float: right;*/
+}
+.u-slides-p{
+	color: white;
+	padding-top: 15px;
+	padding-right: 150px;
+	float: right;
+	font-size: 20px;
+}
+.c-slides{
+	width: 100%;
+	height: 55px;
+	margin-top: 15px;
+	/*background-color: #3a4148;*/
+}
+.c-img{
+	padding-top: 15px;
+	padding-left: 25px;
+	/*float: right;*/
+}
+.c-slides-p{
+	color: white;
+	padding-top: 15px;
+	padding-right: 125px;
+	float: right;
+	font-size: 20px;
+}
+.pl-slides{
+	width: 100%;
+	height: 55px;
+	margin-top: 15px;
+	/*background-color: #3a4148;*/
+}
+.pl-img{
+	padding-top: 15px;
+	padding-left: 25px;
+	/*float: right;*/
+}
+.pl-slides-p{
+	color: white;
+	padding-top: 15px;
+	padding-right: 100px;
+	float: right;
+	font-size: 20px;
+}
+/*main*/
+.main{
+	width: 80%;
+	height: 700px;
+	background-color: #fff;
+	float: right;
+}
+.m-rec{
+	width: 99%;
+	height: 60px;
+	/*border-left-style: none;*/
+	border-style: none;
+	margin-top: 10px;
+	background-color: white;
+	box-shadow: 2px 2px 2px 2px #b4b4b4;
+}
+.m-p{
+	font-size: 30px;
+	padding-top: 18px;
+	padding-left: 25px;
+}
+.m2-rec{
+	width: 50%;
+	height: 260px;
+	margin-left: 15px;
+	/*border-left-style: none;*/
+	border-style: none;
+	margin-top: 20px;
+	background-color: white;
+	box-shadow: 2px 3px 2px 3px #b4b4b4;
+}
+.m2-img{
+	width: 75px;
+	height: 75px;
+	margin: 15px;
+}
+.m2-1500{
+	float: right;
+	font-size: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.m2-price{
+	float: right;
+	color: #8f8f8f;
+	/*margin-bottom: 125px;*/
+	padding-bottom: 75px;
+	padding-top: 10px; 
+	padding-right: 10px;
+	/*font-size: 20px;*/
+}
+.m3-rec{
+	width: 45%;
+	height: 260px;
+	float: right;
+	margin-right: 15px;
+	margin-top: -320px;
+	background-color: white;
+	box-shadow: 2px 3px 2px 3px #b4b4b4;
+}
+.m3-liter{
+	float: right;
+	padding-bottom: 75px;
+	padding-top: 10px; 
+	padding-right: 80px;
+}
+.m3-Packets{
+	float: right;
+	padding-bottom: 75px;
+	padding-top: 10px; 
+	padding-right: 30px;
+}
+.m3-moreDetails{
+	width: 105px;
+	height: 35px;
+	color: white;
+	float: right;
+	margin-right: -45%;
+	margin-top: 5px;
+	background-color: #34a853;
+}
